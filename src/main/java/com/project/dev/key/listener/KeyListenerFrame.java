@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {KeyListenerFrame} se encarga de realizar tareas específicas.
+ * @fileoverview    {KeyListenerFrame}
  *
  * @version         2.0
  *

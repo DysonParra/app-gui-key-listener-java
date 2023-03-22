@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {KeyListenerConstant} se encarga de realizar tareas específicas.
+ * @fileoverview    {KeyListenerConstant}
  *
  * @version         2.0
  *
