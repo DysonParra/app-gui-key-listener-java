@@ -24,7 +24,7 @@ import javax.swing.JFrame;
  * TODO: Definición de {@code KeyListenerFrame}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public class KeyListenerFrame extends JFrame implements KeyListenerConstant, KeyListener {
 
