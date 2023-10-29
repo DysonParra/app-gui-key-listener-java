@@ -21,7 +21,7 @@ import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 
 /**
- * TODO: Definición de {@code KeyListenerFrame}.
+ * TODO: Description of {@code KeyListenerFrame}.
  *
  * @author Dyson Parra
  * @since 11
@@ -32,7 +32,7 @@ public class KeyListenerFrame extends JFrame implements KeyListenerConstant, Key
     private final JFrame frame = this;
 
     /**
-     * TODO: Definición de {@code KeyListenerFrame}.
+     * TODO: Description of {@code KeyListenerFrame}.
      *
      */
     public KeyListenerFrame() {
@@ -79,7 +79,7 @@ public class KeyListenerFrame extends JFrame implements KeyListenerConstant, Key
     }// </editor-fold>//GEN-END:initComponents
 
     /**
-     * TODO: Definición de {@code keyTyped}.
+     * TODO: Description of {@code keyTyped}.
      *
      * @param e
      */
@@ -89,7 +89,7 @@ public class KeyListenerFrame extends JFrame implements KeyListenerConstant, Key
     }
 
     /**
-     * TODO: Definición de {@code keyPressed}.
+     * TODO: Description of {@code keyPressed}.
      *
      * @param e
      */
@@ -102,7 +102,7 @@ public class KeyListenerFrame extends JFrame implements KeyListenerConstant, Key
     }
 
     /**
-     * TODO: Definición de {@code keyReleased}.
+     * TODO: Description of {@code keyReleased}.
      *
      * @param e
      */
